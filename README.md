@@ -1,4 +1,4 @@
-# CS-430-Project---SEPA--RATING-POINTS-BY-AXIS-PARALLEL-LINES.
+# CS-430-Project---SEPARATING-POINTS-BY-AXIS-PARALLEL-LINES.
 The repository contains
 1. ProjectReport.pdf
 2. AxisSeparatingPoints.java
