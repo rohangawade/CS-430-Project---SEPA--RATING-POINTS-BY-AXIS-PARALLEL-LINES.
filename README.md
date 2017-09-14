@@ -1,12 +1,9 @@
 # CS-430-Project---SEPA--RATING-POINTS-BY-AXIS-PARALLEL-LINES.
 The repository contains
 1. ProjectReport.pdf
-2. input folder
-3. output_greedy folder
-4. Eclipse project SeparatingPoints
-5. src folder containing source code file "AxisSeparatingPoints.java"
-6. AlgoProject.jar
-7. algoproj.bat to run the project directly.
+2. AxisSeparatingPoints.java
+3. AlgoProject.jar
+4. algoproj.bat to run the project directly.
 
 Steps to execute
 1. Place the AlgoProject.jar, algoproj.bat, input folder with instances and output_greedy folder in one folder.
